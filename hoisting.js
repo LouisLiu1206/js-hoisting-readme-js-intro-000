@@ -10,9 +10,8 @@ function callMe() {
 
 function crazy() {
   var thisIsCrazy = function (){
-    console.log("hey!!!");
+    console.log("hey!!!")};
   thisIsCrazy();
-  }
 }
 
 function sayMyName() {
